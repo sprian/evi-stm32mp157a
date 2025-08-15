@@ -1,1 +1,1 @@
-# evi-stm32157a
+# evalue stm32mp157a
